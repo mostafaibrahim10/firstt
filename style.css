@@ -23,6 +23,11 @@ nav-item{
         top:20px;
 }
 
+@media only screen and (min-width:0px) and (max-width:440px){
+    .hgg{
+        width: 10%;
+    }
+}
 
 @media only screen and (min-width:200px) and (max-width:575px){
 
